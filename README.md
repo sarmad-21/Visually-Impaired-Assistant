@@ -3,7 +3,7 @@
 
 ## Hardware and Price
 
-| Component                | Cost |
+| Component                | Cost      |
 |---------------------------|----------|
 | Raspberry Pi 5 (16 GB)    | $120      |
 | AI Hat+ (26 TOPS)         | $110      |
