@@ -13,5 +13,5 @@
 | Chest Mount               | $14       |
 | USB Microphone            | $23       |
 | SD Card                   | $7        |
-| Misc. (case, cables, etc) | $~30      |
+| Misc. (case, cables, etc) |~$30      |
 | **Total**                 | **434**  |
