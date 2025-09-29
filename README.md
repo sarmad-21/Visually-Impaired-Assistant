@@ -14,4 +14,4 @@
 | USB Microphone            | $23       |
 | SD Card                   | $7        |
 | Misc. (case, cables, etc) |~$30      |
-| **Total**                 | **434**  |
+| **Total**                 | **$434**  |
